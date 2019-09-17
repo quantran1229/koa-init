@@ -12,10 +12,12 @@ npm install
 ```
 npm start
 ```
+Your server will run at localhost:3000
 5. Cry for your mom because it didn't work
 
 ## Running Test
 To be added in the future
+Go to localhost:3000/api/test
 
 ## Version
 0.1.0
