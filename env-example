@@ -7,14 +7,14 @@ APP_FILE_DEBUG_LOG="debug.log"
 
 DB_USERNAME=quan
 DB_PASSWORD=0000
-DB_DATABASE=dealer
+DB_DATABASE=test
 DB_HOST=localhost
 DB_DIALECT=postgres
 DB_POST=5432
 DB_TIMEZONE=+07:00
 DB_LOGGING=true
 
-JWT_PRIVATE_KEY_PATH = src/keys/ecdsa.key
-JWT_PUBLIC_KEY_PATH = src/keys/ecdsa.pub
+JWT_PRIVATE_KEY_PATH = src/keys/privatekey.key
+JWT_PUBLIC_KEY_PATH = src/keys/publickey.pub
 
 WHITELIST=["*"]
