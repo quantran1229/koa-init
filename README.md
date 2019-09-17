@@ -1,5 +1,5 @@
 # koa-init
-Initial code for a new Koa project using Nodejs and Koa
+Initial code for a new Koa project using Nodejs,Sequelize and Koa
 
 ## Getting started
 1. Start project by fork it to your local folder
